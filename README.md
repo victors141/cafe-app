@@ -1,7 +1,7 @@
 # Cafe App
 
 [Backend](https://cafe-app.hasura.app/console) using hasura service
-[Frontend](#) React GraphQL App
+[Frontend](https://eloquent-lewin-50852e.netlify.app/) React GraphQL App
 
 ## Tools
 
@@ -14,6 +14,11 @@ To get the app running on localhost(development mode), run:
 ```bash
 npm install
 npm start
+```
+
+to run tests
+```bash
+npm run test
 ```
 
 To get the app running on production, run:
@@ -29,4 +34,5 @@ npm run build
 - Add infinity scroll feature
 - Use a logger to check possible bugs.
 - Add authentication
+- Add a filter and search feature
 
